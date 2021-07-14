@@ -1,0 +1,269 @@
+Go forward
+Turn left
+Turn right
+Go straight
+Go to the pool
+Go ahead
+Go to the library
+Go to the school
+Go to the park
+Go to the supermarket
+Go to the restaurant
+Hello 
+Hey
+Excuse me can I have the check please
+Hi
+There is a duck in the pond
+It's yellow
+It is yellow
+I would like some bread
+I would like some fruits
+I would like some drinks
+I would like some bagel
+I would like some muffins
+I would like some donuts
+I would like some apples 
+I would like some oranges
+I would like some watermelons
+I would like some juice
+I would like some milk
+I would like some soda
+I want one bagel
+I want one donut
+I want one muffin
+I want one apple
+I want one orange
+I want one watermelon
+I want one bottle of juice
+I want one bottle of milk
+I want one bottle of soda
+I want one
+Okay here you are
+Thank you
+I want to go to the playground 
+I want to go to the class
+I want to play basketball
+I want to play soccer
+I like English class
+I like math class
+I like math
+I like English
+I am seven
+I am eight
+I am night
+I am ten
+I am eleven 
+I am seven years old
+I am eight years old
+I am night years old
+I am ten years old
+I am eleven years old
+I like yellow
+I like blue
+I like pink
+I like purple
+I like green
+I like white
+I like
+20
+19
+6
+14
+Please be quiet in the library
+Go to the class
+Six
+six
+I want to go to the school
+I want to go to the library
+I want to go to the supermarket
+I want to go to the park
+I want to go to the restaurant
+I want to play
+I want to have a picnic
+I want to sit on the bench
+Yes I am going to play
+I want to ride a bike
+I want to play on the slide
+Yes
+No
+No I don't
+Yes let's go to the supermarket
+Ok
+Okay
+No I don't want to sit
+There is a frog in the pond
+It is green
+Yes I have an umbrella
+No I don't have an umbrella
+We need to be quiet
+Quiet please
+I want to read the green book
+I want to read the yellow book
+I want to read the purple book
+There is a number in the book
+Yes I want to read the green book
+Yes I want to read the yellow book
+Yes I want to read the purple book
+No I do not want to read anymore
+I want to borrow yellow book
+I want to borrow purple book
+I want to borrow green book
+There is a chicken in the book
+I like cat
+I like dog
+I like bear
+I like pig
+I like dinosaur
+There is a watermelon in the book
+I like apple
+I like orange
+I like watermelon
+Yes I do
+No I don't
+It is seven
+I am Kevin
+May I have the spaghetti
+May I have the French fries
+May I have the soda
+Okay I can wait
+Can I order to go
+Great thank you
+Yes please can I get one soda
+Yes please can I get one French fries
+Yes please can I get one spaghetti
+No thank you
+Okay
+It was great
+Okay here you are
+go forward
+turn left
+turn right
+go straight
+go to the pool
+go ahead
+go to the library
+go to the school
+go to the park
+go to the supermarket
+go to the restaurant
+hello 
+hey
+hi
+I would like some bread
+I would like some fruits
+I would like some drinks
+I would like some bagel
+I would like some muffins
+I would like some donuts
+I would like some apples 
+I would like some oranges
+I would like some watermelons
+I would like some juice
+I would like some milk
+I would like some soda
+I want one bagel
+I want one donut
+I want one muffin
+I want one apple
+I want one orange
+I want one watermelon
+I want one bottle of juice
+I want one bottle of milk
+I want one bottle of soda
+I want one
+okay here you are
+thank you
+I want to go to the playground 
+I want to go to the class
+I want to play basketball
+I want to play soccer
+I like English class
+I like math class
+I am seven
+I am eight
+I am night
+I am ten
+I am eleven 
+I am seven years old
+I am eight years old
+I am night years old
+I am ten years old
+I am eleven years old
+I like yellow
+I like blue
+I like pink
+I like purple
+20
+19
+6
+six
+I want to go to the school
+I want to go to the library
+I want to go to the supermarket
+I want to go to the park
+I want to go to the restaurant
+I want to play
+I want to have a picnic
+I want to sit on the bench
+yes I am going to play
+I want to ride a bike
+I want to play on the slide
+yes
+no
+no I don't
+yes let's go to the supermarket
+ok
+11
+20
+okay
+no I don't want to sit
+there is a frog in the pond
+it is green
+yes I have an umbrella
+no I don't have an umbrella
+I want five bottle of milk
+we need to be quiet
+quiet please
+I want to read the green book
+I want to read the yellow book
+I want to read the purple book
+there is a number in the book
+yes I want to read the green book
+yes I want to read the yellow book
+yes I want to read the purple book
+no I do not want to read anymore
+I want to borrow yellow book
+I want to borrow purple book
+I want to borrow green book
+there is a chicken in the book
+I like cat
+I like dog
+I like zebra
+I like lion
+I like tiger
+I like Tiger
+I like rabbit
+I like bird
+I like dinosaur
+I like elephant
+there is a watermelon in the book
+I like apple
+I like orange
+I like watermelon
+yes I do
+no I don't
+it is 7
+I'm Kevin
+may I have the spaghetti
+may I have the French fries
+may I have the soda
+okay I can wait
+can I order to go
+great thank you
+yes please can I get one soda
+yes please can I get one French fries
+yes please can I get one spaghetti
+no thank you
+Okay
+it was great
+okay here you are
